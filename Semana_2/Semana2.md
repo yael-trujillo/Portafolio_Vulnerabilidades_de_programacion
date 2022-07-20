@@ -1,5 +1,6 @@
 # Portafolio de evidencias.
+Estos son mis primeros pasos en Java
 
 ## Semana 2.
 
-Tipos de variables
+(Temas vistos)
